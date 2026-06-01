@@ -9,7 +9,6 @@ module.exports = {
 
     bypassRoles: [
         "1507517669228810271",
-        "Kurucu ID"
     ],
 
     deleteRoles: [
